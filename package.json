@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "jest": "^26.5.3",
-    "nock": "^13.0.4",
+    "nock": "^13.1.0",
     "nodemon": "^2.0.4",
     "smee-client": "^1.2.2",
     "sonarlint": "^1.1.0",
